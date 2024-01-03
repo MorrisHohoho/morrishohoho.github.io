@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Ruoshen Mo'
+theme = 'Hugo_theme_Mo'
