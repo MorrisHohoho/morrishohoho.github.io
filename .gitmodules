@@ -1,0 +1,3 @@
+[submodule "Hugo_theme_Mo"]
+path = themes/Hugo_theme_Mo
+url = git@github.com:MorrisHohoho/Hugo_theme_Mo.git
