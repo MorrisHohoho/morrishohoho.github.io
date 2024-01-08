@@ -13,6 +13,8 @@ Yang Song*, **Ruoshen Mo\***, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao
 
 *: Co-first Author
 
+***
+
 #### WIP: Silence the Vehicles: Attacks and Defense in Cellular-V2X Unicast
 **Ruoshen Mo**, Hang Qiu, Zhaowei Tan
 
