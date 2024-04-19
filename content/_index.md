@@ -10,9 +10,9 @@ Hi, I'm Ruoshen Mo (莫若燊), an undergraduate student at Sichuan University (
 At SCU, I'm fortunately advised by [Prof. Yanbing Yang](https://scholar.google.com/citations?user=qpLuOggAAAAJ), and I have been working as a research intern at the **Sichuan University Industrial Internet Research Institute**.
 
 # 📢 News
-- *2023.12:* 🎉 One paper about C-V2X is submitted to NDSS VehicleSec'2024！
+<!-- - *2023.12:* 🎉 One paper about C-V2X is submitted to NDSS VehicleSec'2024！ -->
 - *2023.10:* 🎉 Welcome to my new homepage!
-- *2023.08:* 🎉 My first paper has been submitted to IEEE ICC'2024!
+<!-- - *2023.08:* 🎉 My first paper has been submitted to IEEE ICC'2024! -->
 - *2023.07:* 🎉 Start research internship at UCR! I'm excited to work with Prof.Tan!
 
 # 🔍 Research Experiences

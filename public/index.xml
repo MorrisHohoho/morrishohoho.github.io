@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Ruoshen Mo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Homepage on Ruoshen Mo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misc</title>
+      <link>http://localhost:1313/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/</guid>
+      <description>To be continued </description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Conference VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing Yang Song*, Ruoshen Mo*, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao Sun, Yanbing Yang.&#xA;IEEE 99th Vehicular Technology Conference (VTC)&#xA;*: Co-first Author&#xA;Patents The Design of a Practical V2V Communication System based on OWC using COTS Devices Ruoshen Mo, Yanbing Yang, Yang Song, Yanbo Wang, Jun Tao, Xinyu Lv, Jifei Zhu, Yimao Sun&#xA;CN Patent Application, CN116961748A, filed April 2023.</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>Undergraduate Courses Rapid Development of AIoT system based on HarmonyOS Sichuan University, Teaching Assistant, 2023 Spring.&#xA;Teaching materials at here 👉: VLC_HarmonyCar</description>
+    </item>
+  </channel>
+</rss>

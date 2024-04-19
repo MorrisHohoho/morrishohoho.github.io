@@ -9,16 +9,16 @@ draft: "false"
 #### VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing
 Yang Song*, **Ruoshen Mo\***, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao Sun, Yanbing Yang. 
 
-*IEEE International Conference on Communication (ICC) 2024.*   **In Submission** 
+*IEEE 99th Vehicular Technology Conference (VTC)*  
 
 *: Co-first Author
 
 ***
 
-#### WIP: Silence the Vehicles: Attacks and Defense in Cellular-V2X Unicast
+<!-- #### WIP: Silence the Vehicles: Attacks and Defense in Cellular-V2X Unicast
 **Ruoshen Mo**, Hang Qiu, Zhaowei Tan
 
-*NDSS Symposium on Vehicle Security and Privacy (VehicleSec 2024).*  **In Submission**
+*NDSS Symposium on Vehicle Security and Privacy (VehicleSec 2024).*  **In Submission** -->
 
 # Patents
 #### The Design of a Practical V2V Communication System based on OWC using COTS Devices
