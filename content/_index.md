@@ -5,7 +5,7 @@ menu: "main"
 draft: "false"
 ---
 
-Hi, I'm Ruoshen Mo (莫若燊), an undergraduate student at Sichuan University (SCU) majoring in Computer Science and Technology. I'm interested in various topics in **systems - - computer networks, computer security**, etc. Currently, I'm focused on **the wireless communication system in V2X**. Here is my blog: [NOOB_BLOGS](https://youtu.be/dQw4w9WgXcQ?si=PVziopZUNi69LjqG)
+Hi, I'm Ruoshen Mo (莫若燊), an undergraduate student at Sichuan University (SCU) majoring in Computer Science and Technology. I'm interested in various topics in **systems - - computer networks, computer security**, etc. Currently, I'm focused on **the wireless communication system in V2X**. Here is my blog: [NOOB_BLOGS](./rickroll/)
 
 At SCU, I'm fortunately advised by [Prof. Yanbing Yang](https://scholar.google.com/citations?user=qpLuOggAAAAJ), and I have been working as a research intern at the **Sichuan University Industrial Internet Research Institute**.
 
