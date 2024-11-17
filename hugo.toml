@@ -2,9 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Ruoshen Mo'
 theme = 'Hugo_theme_Mo'
+enableGitInfo=true
 
 
 [params]
     email = "rmo008@ucr.edu"
     github = "MorrisHohoho"
     clustrmaps = "//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=VDfXHShEMhIgVRzUsfE0Kx8VRurXPU5lIFGFo3bhTCw&co=fbf1c7&cmo=3acc3a&cmn=ff5353&ct=808080"
+    favicon="/favicon/favicon.ico"

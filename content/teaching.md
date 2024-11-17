@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-date: "2023–012–31"
 menu: "teaching"
 draft: "false"
 ---

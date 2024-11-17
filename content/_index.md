@@ -1,6 +1,5 @@
 ---
 title: "Homepage"
-date: "2023–012–31"
 menu: "main"
 draft: "false"
 ---

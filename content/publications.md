@@ -1,18 +1,16 @@
 ---
 title: "Publications"
-date: "2023–012–31"
 menu: "publication"
 draft: "false"
 ---
 
 # Conference
-#### VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing
+#### [VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing](https://ieeexplore.ieee.org/document/10683127)
 Yang Song*, **Ruoshen Mo\***, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao Sun, Yanbing Yang. 
 
-*IEEE 99th Vehicular Technology Conference (VTC)*  
+*IEEE 99th Vehicular Technology Conference (VTC) 2024*  
 
 *: Co-first Author
-
 ***
 
 <!-- #### WIP: Silence the Vehicles: Attacks and Defense in Cellular-V2X Unicast

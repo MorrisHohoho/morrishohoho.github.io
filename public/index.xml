@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Ruoshen Mo</title>
-    <link>http://localhost:40709/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Homepage on Ruoshen Mo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:40709/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enjoy😂</title>
-      <link>http://localhost:40709/rickroll/</link>
+      <link>http://localhost:1313/rickroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40709/rickroll/</guid>
-      <description>I am title 🐱 </description>
+      <guid>http://localhost:1313/rickroll/</guid>
+      <description>&lt;h1 id=&#34;i-am-title-&#34;&gt;I am title 🐱&lt;/h1&gt;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&lt;div style=&#34;position:relative; padding-bottom:75%; width:100%; height:0&#34;&gt;&#xA;&#xA;    &lt;iframe&#xA;        src=&#34;//www.bilibili.com/blackboard/html5mobileplayer.html?bvid=BV1EN4y1V7MB&amp;page=1&amp;autoplay=1&amp;as_wide=1&amp;high_quality=0&amp;danmaku=0&amp;hasMuteButton=1&#34;&#xA;        scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&#xA;        style=&#34;position:absolute; height: 100%; width: 100%;&#34;&gt;&#xA;    &lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Misc</title>
-      <link>http://localhost:40709/misc/</link>
+      <link>http://localhost:1313/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40709/misc/</guid>
-      <description>To be continued </description>
+      <guid>http://localhost:1313/misc/</guid>
+      <description>&lt;h1 id=&#34;to-be-continued&#34;&gt;To be continued&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:40709/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40709/publications/</guid>
-      <description>Conference VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing Yang Song*, Ruoshen Mo*, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao Sun, Yanbing Yang.&#xA;IEEE 99th Vehicular Technology Conference (VTC)&#xA;*: Co-first Author&#xA;Patents The Design of a Practical V2V Communication System based on OWC using COTS Devices Ruoshen Mo, Yanbing Yang, Yang Song, Yanbo Wang, Jun Tao, Xinyu Lv, Jifei Zhu, Yimao Sun&#xA;CN Patent Application, CN116961748A, filed April 2023.</description>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h1 id=&#34;conference&#34;&gt;Conference&lt;/h1&gt;&#xA;&lt;h4 id=&#34;vehicletalk-lightweight-v2v-network-enabled-by-optical-wireless-communication-and-sensinghttpsieeexploreieeeorgdocument10683127&#34;&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10683127&#34;&gt;VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Yang Song*, &lt;strong&gt;Ruoshen Mo*&lt;/strong&gt;, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao Sun, Yanbing Yang.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;IEEE 99th Vehicular Technology Conference (VTC) 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;*: Co-first Author&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;patents&#34;&gt;Patents&lt;/h1&gt;&#xA;&lt;h4 id=&#34;the-design-of-a-practical-v2v-communication-system-based-on-owc-using-cots-devices&#34;&gt;The Design of a Practical V2V Communication System based on OWC using COTS Devices&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ruoshen Mo&lt;/strong&gt;, Yanbing Yang, Yang Song, Yanbo Wang, Jun Tao, Xinyu Lv, Jifei Zhu, Yimao Sun&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>http://localhost:40709/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40709/teaching/</guid>
-      <description>Undergraduate Courses Rapid Development of AIoT system based on HarmonyOS Sichuan University, Teaching Assistant, 2023 Spring.&#xA;Teaching materials at here 👉: VLC_HarmonyCar</description>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h1 id=&#34;undergraduate-courses&#34;&gt;Undergraduate Courses&lt;/h1&gt;&#xA;&lt;h4 id=&#34;rapid-development-of-aiot-system-based-on-harmonyos&#34;&gt;Rapid Development of AIoT system based on HarmonyOS&lt;/h4&gt;&#xA;&lt;p&gt;Sichuan University, Teaching Assistant, 2023 Spring.&lt;/p&gt;&#xA;&lt;p&gt;Teaching materials at here 👉: &lt;a href=&#34;https://github.com/MorrisHohoho/VLC_HarmonyCar&#34;&gt;VLC_HarmonyCar&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
