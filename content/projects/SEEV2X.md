@@ -21,13 +21,34 @@ buttons:
 - name: "Dataset"
   url: ""
 - name: "Bibtex"
-  url: ""
+  url: "#bibtex"
 
 draft: "false"
 layout: "project"
 type: "projects"
 ---
 
+{{<project_abstract>}}
+SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."
+{{</project_abstract>}} 
 
-# Test
-1542313132
+{{<project_figure "/figures/seev2x/CarSetup.png" "SEE-V2X_Intro">}}
+
+{{<project_main "SEE-V2X Overview">}}
+1231231232131
+{{</project_main>}}
+
+
+
+{{<project_main "Dataset Description">}}
+1231231232131
+{{</project_main>}}
+
+{{<project_main "Example Analysis">}}
+SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios, emulating the traffic patterns of popular C-V2X applications."
+{{</project_main>}}
+
+{{<project_citation>}}
+TBD
+{{</project_citation>}}
+
