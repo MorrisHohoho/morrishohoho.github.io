@@ -8,11 +8,12 @@ Hello! I'm Ruoshen Mo, a 1st-year PhD student at UCR, co-advised by [Prof. Zhaow
 
 &nbsp;
 
-I'm interested in various topics in **systems - - computer networks, computer security**, etc. Currently, I'm focused on **the wireless communication system in V2X**. 
+I'm interested in various aspects of systems, including computer networks, computer security, and related fields. Currently, I'm focused on **the wireless communication system in V2X**. 
 
 &nbsp;
 
 # 📢 News
+- *2025.2*: 🎉 One paper get accepted by SenSys'25.
 - *2024.9:* 🎉 Start of my Ph.D. journey. Hope I can finally get there.
 - *2024.4:* 🎉 I've been fortunate to have the opportunity to work with Prof. Tan and Prof. Qiu!
 - *2024.2:* 🎉 One paper get accepted by VTC'24 Spring.
