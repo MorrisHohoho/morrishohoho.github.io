@@ -4,6 +4,33 @@ title = 'Ruoshen Mo'
 theme = 'Hugo_theme_Mo'
 enableGitInfo=true
 
+[languages]
+    [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 1
+
+
+    [languages.zh]
+    contentDir = "content/chinese"
+    languageName = "Chinese"
+    weight = 2
+    title ="莫若燊"
+
+    [languages.zh.menu]
+    [[languages.zh.menu.main]]
+    name = '主页'
+    pageRef = '/'
+    weight = 1
+    [[languages.zh.menu.main]]
+    name = '论文'
+    pageRef = '/publications'
+    weight = 2
+    [[languages.zh.menu.main]]
+    name = '教学'
+    pageRef = '/teaching'
+    weight = 3
+
 
 [params]
     email = "rmo008@ucr.edu"

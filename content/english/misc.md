@@ -1,7 +1,7 @@
 ---
 title: "Misc"
 menu: "misc"
-draft: "false"
+draft: "true"
 ---
 
 # I'm not a robot🤖 

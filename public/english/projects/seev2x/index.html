@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="">
+    <meta property="og:title" content="TITLE">
+    <title>SEEV2X: C-V2X Direct Communication Dataset: An Application-Centric Approach</title>
+    <link rel="shortcut icon" href="/favicon/favicon.ico"></link>
+    
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic' rel='stylesheet' type='text/css'>
+
+    
+    <script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    <script src="./src/popup.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        
+        var _POPUP_FEATURES = 'width=500,height=300,resizable=1,scrollbars=1,titlebar=1,status=1';
+    </script>
+    
+    <link media="all" href="http://localhost:1313/css/glab.css" type="text/css" rel="StyleSheet">
+
+    
+    <script src="http://localhost:1313/scripts/slideshow.js" type="text/javascript"></script>
+    
+    <link media="all" href="http://localhost:1313/css/slideshow.css" type="text/css" rel="StyleSheet">
+
+    
+    <style type="text/css" media="all">
+        body {
+            font-family: "Titillium Web","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+            font-weight:300;
+            font-size:18px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+          }
+          
+          h1 {
+            font-weight:300;
+          }
+          h2 {
+            font-weight:300;
+          }
+          
+        IMG {
+          PADDING-RIGHT: 0px;
+          PADDING-LEFT: 0px;
+          FLOAT: right;
+          PADDING-BOTTOM: 0px;
+          PADDING-TOP: 0px
+        }
+        #primarycontent {
+          MARGIN-LEFT: auto; ; WIDTH: expression(document.body.clientWidth >
+        1000? "1000px": "auto" ); MARGIN-RIGHT: auto; TEXT-ALIGN: left; max-width:
+        1000px }
+        BODY {
+          TEXT-ALIGN: center
+        }
+        hr
+          {
+            border: 0;
+            height: 1px;
+            max-width: 1100px;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+          }
+        
+          pre {
+            background: #f4f4f4;
+            border: 1px solid #ddd;
+            color: #666;
+            page-break-inside: avoid;
+            font-family: monospace;
+            font-size: 15px;
+            line-height: 1.6;
+            margin-bottom: 1.6em;
+            max-width: 100%;
+            overflow: auto;
+            padding: 10px;
+            display: block;
+            word-wrap: break-word;
+        }
+        ul {
+          list-style-type: none;
+           
+          padding-left: 2em;
+        }
+        
+        ul li:before {
+          content: "\21B3";
+          position: absolute;
+           
+          margin-left: -1.1em;
+        }
+        </style>
+
+        <meta content="MSHTML 6.00.2800.1400" name="GENERATOR"><script src="./src/b5m.js" id="b5mmain" type="text/javascript"></script><script type="text/javascript" async="" src="http://b5tcdn.bang5mai.com/js/flag.js?v=156945351"></script></head>
+
+        <body data-gr-c-s-loaded="true">
+</head><body>
+    <div id="wrapper">
+        
+        <div id="primarycontent">
+    <center><h1><strong>SEEV2X: C-V2X Direct Communication Dataset: An Application-Centric Approach</strong></h1></center>
+    
+    <center><font size="-0.0"><h2> 
+        
+        <a href="https://morrishohoho.github.io/">Ruoshen Mo</a>&nbsp;&nbsp;&nbsp;
+        
+        <a href="https://www.linkedin.com/in/bowu123/">Wu Bo</a>&nbsp;&nbsp;&nbsp;
+        
+        <a href="https://cs.ucr.edu/~ztan/">Zhaowei Tan</a>&nbsp;&nbsp;&nbsp;
+        
+        <a href="https://hangqiu.github.io/">Hang Qiu</a>&nbsp;&nbsp;&nbsp;
+        
+
+       </h2></font>
+    
+    <center><font size="-1"><h2>
+            
+            <a href="https://www.ucr.edu/">University of California, Riverside</a>&nbsp;&nbsp;&nbsp; 
+            
+    </h2></font></center>
+
+    
+    <center><span style="font-size:20px;">ACM SenSys 2025</span></center>
+    <h2><center>
+
+
+    
+    
+    <a href="">Paper</a>
+    
+     | 
+    
+    <a href="">Code</a>
+    
+     | 
+    
+    <a href="">Dataset</a>
+    
+     | 
+    
+    <a href="#bibtex">Bibtex</a>
+    
+    </h2></center>
+    
+    
+    
+        <p></p>
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center"> 
+<tbody><tr><td><left>
+
+SEE-V2X is a real-world C-V2X dataset, using commercial off-the-shelf standard compliant C-V2X radios. Emulating the traffic patterns of popular C-V2X applications, we investigate the gap between the demand and reality. Beyond throughput and latency, C-V2X contains cross-layer details, offers insight into the resource scheduling and allocation mechanism in various situations, and reveals the impact of nuanced configuration.
+
+</left></td></tr></tbody></table>
+</p></div>
+
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tbody><tr><td align="center"><img src="/figures/seev2x/see-v2x.png" width="1000" alt="SEE-V2X_Intro" >
+</td></tr>
+</tbody>
+</table>
+</div>
+<p><hr>
+<h1 align="center">SEE-V2X Overview</h1>
+<table border="0" cellspacing="10" cellpadding="0" align="center"> 
+<tbody><tr><td><left>
+
+SEE-V2X dataset has 4 scenes in total: Indoor_AllCombos, Indoor_Selective,
+Outdoor_ParkingLot, and Outdoor_Openroad. Each scenario has application layer network trace generated by the C-V2X radio, C-V2X MAC layer trace and Sidelink control information captured by USRP B210.
+Additionally, for the outdoor_openroad scenarios, we provide GNSS coordinates for each UE. The detailed dataset description of each scene is given in the official github repository.
+
+</left>
+</td></tr>
+<tr><td>
+</td></tr>
+</tbody>
+</table>
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tbody><tr><td align="center"><img src="/figures/seev2x/Hardware_setup.png" width="1000" alt="SEE-V2X_Indoor" >
+</td></tr>
+</tbody>
+</table>
+</div>
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tbody><tr><td align="center"><img src="/figures/seev2x/route.png" width="1000" alt="SEE-V2X_Route" >
+</td></tr>
+</tbody>
+</table>
+</div></p>
+<hr>
+<h1 align="center">Example Analysis</h1>
+<table border="0" cellspacing="10" cellpadding="0" align="center"> 
+<tbody><tr><td><left>
+
+We present preliminary analysis results on the
+collected traces, illustrating how SEE-V2X can offer a glimpse
+into the real-world C-V2X traffic and more importantly its
+implications on emerging futuristic C-V2X applications.
+
+1. **Throughput**: We calculate the throughput of the C-V2X, The maxmimum throughput we got from our dataset is 1.5Mbps, which is far below the throughput requirement of cooperative driving applications.
+
+2. **Outdoor Parking Lot**: We analyze the throughput of the C-V2X in the outdoor parking lot scenario. The throughput is highly realted to the distance between the vehicles.
+
+3. **Channel Occupy**: The transmitting timming matters. We analyze the channe utilization when the packet transmission is not synchronized with the SPS scheudling resources. As the figure shows, extra latency is introduced.
+
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tbody><tr><td align="center"><img src="/figures/seev2x/throughput.png" width="1000" alt="SEE-V2X_throughput" >
+</td></tr>
+</tbody>
+</table>
+</div>
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tbody><tr><td align="center"><img src="/figures/seev2x/parkingLot.png" width="1000" alt="SEE-V2X_outdoorThroughput" >
+</td></tr>
+</tbody>
+</table>
+</div>
+<div width="1000"><p>
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tbody><tr><td align="center"><img src="/figures/seev2x/channel_occupy.png" width="1000" alt="SEE-V2X_channel_occupy" >
+</td></tr>
+</tbody>
+</table>
+</div>
+
+</left>
+</td></tr>
+<tr><td>
+</td></tr>
+</tbody>
+</table>
+<hr>
+<h1 id="bibtex" align="center">Citation</h1>
+<table border="0" cellspacing="10" cellpadding="0" align="center"> 
+<tr><td><left>
+<pre><code style="display:block; width:1000px; overflow-x: auto">
+    
+TBD
+
+</code></pre>
+</left></td></tr></table>
+
+         
+        
+    </div>
+</body>
+
+</html>

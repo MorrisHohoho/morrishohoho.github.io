@@ -1,11 +1,11 @@
 ---
-title: "Publications"
+title: "论文"
 menu: "publication"
 draft: "false"
 ---
 
 # Conference
-#### [SEE-V2X: C-V2X Direct Communication Dataset: An Application-Centric Approach]()
+#### [SEE-V2X: C-V2X Direct Communication Dataset: An Application-Centric Approach](https://cisl.ucr.edu/SEE-V2X/)
  **Ruoshen Mo**, Bo Wu, Zhaowei Tan, Hang Qiu. 
 
 *The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025*  
@@ -19,6 +19,16 @@ Yang Song*, **Ruoshen Mo\***, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao
 *: Co-first Author
 ***
 
+# Posters, Demos
+#### [Demo Abstract: Cooperative Multi-modal Sensing]()
+Bo Wu, Jerry Li, **Ruoshen Mo**, Justin Yue, Dinesh Bharadia, Hang Qiu
+
+*The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025* 
+
+#### [Poster Abstract: SEE-V2X: Empirical Evaluation of C-V2X Direct Communication in Real-World Scenarios]()
+ **Ruoshen Mo**, Bo Wu, Zhaowei Tan, Hang Qiu. 
+
+*The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025*  
 
 <!-- # Patents
 #### The Design of a Practical V2V Communication System based on OWC using COTS Devices

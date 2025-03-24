@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主页 on 莫若燊</title>
+    <link>http://localhost:1313/zh/</link>
+    <description>Recent content in 主页 on 莫若燊</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教学</title>
+      <link>http://localhost:1313/zh/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/teaching/</guid>
+      <description>&lt;h1 id=&#34;undergraduate-courses&#34;&gt;Undergraduate Courses&lt;/h1&gt;&#xA;&lt;h4 id=&#34;rapid-development-of-aiot-system-based-on-harmonyos&#34;&gt;&lt;a href=&#34;https://github.com/MorrisHohoho/VLC_HarmonyCar&#34;&gt;Rapid Development of AIoT system based on HarmonyOS&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Sichuan University, Teaching Assistant, 2023 Spring.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>论文</title>
+      <link>http://localhost:1313/zh/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/publications/</guid>
+      <description>&lt;h1 id=&#34;conference&#34;&gt;Conference&lt;/h1&gt;&#xA;&lt;h4 id=&#34;see-v2x-c-v2x-direct-communication-dataset-an-application-centric-approach&#34;&gt;&lt;a href=&#34;https://cisl.ucr.edu/SEE-V2X/&#34;&gt;SEE-V2X: C-V2X Direct Communication Dataset: An Application-Centric Approach&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ruoshen Mo&lt;/strong&gt;, Bo Wu, Zhaowei Tan, Hang Qiu.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys), 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;vehicletalk-lightweight-v2v-network-enabled-by-optical-wireless-communication-and-sensing&#34;&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10683127&#34;&gt;VehicleTalk: Lightweight V2V Network Enabled by Optical Wireless Communication and Sensing&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Yang Song*, &lt;strong&gt;Ruoshen Mo*&lt;/strong&gt;, Pinpin Zhang, Chenchen Wang, Zhengguo Sheng, Yimao Sun, Yanbing Yang.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;IEEE 99th Vehicular Technology Conference (VTC) 2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;*: Co-first Author&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;posters-demos&#34;&gt;Posters, Demos&lt;/h1&gt;&#xA;&lt;h4 id=&#34;demo-abstract-cooperative-multi-modal-sensing&#34;&gt;&lt;a href=&#34;&#34;&gt;Demo Abstract: Cooperative Multi-modal Sensing&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Bo Wu, Jerry Li, &lt;strong&gt;Ruoshen Mo&lt;/strong&gt;, Justin Yue, Dinesh Bharadia, Hang Qiu&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
